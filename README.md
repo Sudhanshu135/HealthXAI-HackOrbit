@@ -13,7 +13,6 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 
 - **Main UI (HomePage)**  
   Consists of brilliant UI and design, and is accompanied with a link to the AI Health Chatbot.
-  
 
 ---
 
@@ -40,7 +39,7 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
   A brilliantly designed interface offering a personalized health experience. It includes an **Interactive 3D Lifestyle Avatar** — a virtual model that reflects your posture, health state, and activity in real time.
 
   **🧾 Description:** A visually rich dashboard integrating personal health stats with dynamic 3D visualization.  
-  **⚙️ Built With:** WebGL, Three.js, Next JS , Tailwind CSS ,and real-time data integration.  
+  **⚙️ Built With:** WebGL, Three.js, Next JS, Tailwind CSS, and real-time data integration.  
   **🧩 Solves:** Lack of visual engagement and personalization in traditional health platforms.
 
 ---
@@ -65,3 +64,22 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 ![Medical Image Analysis Screenshot 1](./assets/Medical-Imaging.png)  
 
 ---
+
+- **Personalised Voice Agent (VAPI) & Routine Planner**  
+  Conversational AI assistant that understands you and helps manage your health routines and daily habits.
+
+  **🧾 Description:** Conversational AI assistant that understands you and plans your health routines.  
+  **⚙️ Built With:** VAPI voice model, calendar & habit scheduling modules.  
+  **🧩 Solves:** Poor lifestyle management & missed health routines.
+
+---
+
+### 🤖Personalised Voice Agent (VAPI)  Preview
+
+![Personalised Voice Agent Screenshot 1](./assets/Personal-voice-agent.png)  
+![Personalised Voice Agent Screenshot 1](./assets/Personal-voice-agent-2.png)  
+
+
+---
+
+
