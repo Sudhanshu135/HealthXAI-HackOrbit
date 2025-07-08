@@ -74,12 +74,25 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 
 ---
 
-### 🤖Personalised Voice Agent (VAPI)  Preview
+### 🤖 Personalised Voice Agent (VAPI) Preview
 
 ![Personalised Voice Agent Screenshot 1](./assets/Personal-voice-agent.png)  
-![Personalised Voice Agent Screenshot 1](./assets/Personal-voice-agent-2.png)  
-
 
 ---
 
+- **Voice-Based Medical Suite (Symptom Consultation)**  
+  A comprehensive voice-powered assistant that enables users to consult symptoms, book appointments, and receive preliminary health reports—all through natural conversation.
+  Users can verbally describe their health symptoms to the assistant, which intelligently interprets and analyzes the input to provide potential diagnoses, suggest care paths, or escalate to a medical professional. The suite also supports voice-activated appointment scheduling and automated report generation for symptom history and consultation summaries.
+
+  **🧾 Description:** Voice assistant for symptom input, appointment booking, and report sharing.  
+  **⚙️ Built With:** Vapi speech model, and smart calendar/email APIs.  
+  **🧩 Solves:** Complicated bookings and lack of early diagnosis tools.
+
+---
+
+### 🤖 Voice Based Medical Suite Preview
+
+![Voice Based Medical Suite](./assets/Symptom-Assistant.png)  
+
+---
 
