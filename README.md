@@ -13,6 +13,7 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 
 - **Main UI (HomePage)**  
   Consists of brilliant UI and design, and is accompanied with a link to the AI Health Chatbot.
+  
 
 ---
 
@@ -30,6 +31,37 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 
 ### 🤖 Chatbot Preview
 
-![Chatbot Screenshot](./assets/Chatbot-one.png)
-![Chatbot Screenshot](./assets/Chatbot-two.png)
+![Chatbot Screenshot 1](./assets/Chatbot-one.png)  
+![Chatbot Screenshot 2](./assets/Chatbot-two.png)
 
+---
+
+- **Personal Dashboard**  
+  A brilliantly designed interface offering a personalized health experience. It includes an **Interactive 3D Lifestyle Avatar** — a virtual model that reflects your posture, health state, and activity in real time.
+
+  **🧾 Description:** A visually rich dashboard integrating personal health stats with dynamic 3D visualization.  
+  **⚙️ Built With:** WebGL, Three.js, Next JS , Tailwind CSS ,and real-time data integration.  
+  **🧩 Solves:** Lack of visual engagement and personalization in traditional health platforms.
+
+---
+
+### 🤖 Dashboard Preview
+
+![Dashboard Screenshot 1](./assets/Dashboard.png)  
+
+---
+
+- **MedVit – Medical Image Analysis**  
+  AI-powered tool to analyze medical scans like X-rays and MRIs to generate intelligent health reports.
+
+  **🧾 Description:** AI-driven diagnosis assistant for medical imaging.  
+  **⚙️ Built With:** Vision Transformers (MedVit), integrated with report sharing.  
+  **🧩 Solves:** Manual diagnosis delays & errors.
+
+---
+
+### 🤖 MedVit Preview
+
+![Medical Image Analysis Screenshot 1](./assets/Medical-Imaging.png)  
+
+---
