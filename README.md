@@ -211,7 +211,7 @@ HealthX-AI isn’t just a health tech project — it's a *complete, intelligent 
 ## 🔚 Final Thoughts
 
 *HealthX-AI is not just a health app — it's your intelligent wellness companion.*  
-By fusing modern AI with a human-centered design, HealthX-AI empowers users to take control of their physical, emotional, and social well-being.
+By fusing modern AI with a human-centered interface, HealthX-AI empowers users to take control of their physical, emotional, and social well-being.
 
 It’s built for everyone — from tech-savvy patients to busy caregivers — and aims to create a *connected, compassionate, and AI-powered future of healthcare*.
 
