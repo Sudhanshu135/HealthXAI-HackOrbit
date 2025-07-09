@@ -12,7 +12,7 @@ from google.genai import types, Client
 import json
 import re 
 # Initialize Google Gemini client
-client = Client(api_key="AIzaSyBVFBXVxnK1PUUfdnNaNmj8FkwTG5LlarU")
+client = Client(api_key="your api key")
 
 app = Flask(__name__)
 CORS(app) 
