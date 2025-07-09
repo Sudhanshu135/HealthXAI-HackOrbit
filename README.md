@@ -107,7 +107,7 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
   - **Health Forums**: Topic-based discussion boards for users to engage in thoughtful health discussions and share personal experiences.
 
   **⚙️ Built With:**  Tailwind CSS , community threads and moderation tools.  
-  **🧩 Solves:** Isolation in digital health platforms and lack of peer/community-driven wellness support.
+  **🧩 Solves:** Isolation in digital health platforms and lack of peer/community-driven wellness support and its a brilliant supportive health community.
 
 ---
 
