@@ -114,5 +114,8 @@ A futuristic healthcare platform powered by voice, vision, and multi-agent AI sy
 ### 🤝 Community HomePage Preview
 
 ![Community Screenshot](./assets/community-homepage.png)
+![Support Centre](./assets/Support-centre.png)
+
+
 
 ---
